@@ -1,0 +1,50 @@
+.add-master-field{
+
+	background: url("../images/x.png") no-repeat center top;
+	cursor: pointer;
+	display: inline-block;	
+	height: 21px;
+	
+
+	top: 480px;
+	
+
+	width: 150px;
+
+	right: 230px;
+
+	margin: 10px auto;
+
+}
+
+.add-master-field:hover{
+
+
+}
+
+.cancel-master-field{
+
+background: url("../images/cancel.png") no-repeat center top;
+cursor: pointer;
+display: inline-block;
+height: 16px;
+
+
+margin-top: -39px;
+width: 16px;
+float: right;
+
+
+right: 550px;
+z-index: 2;
+position: absolute;
+
+}
+
+.cancel-master-field:hover{
+
+}
+
+.first-master-field{
+	vertical-align: top;
+}

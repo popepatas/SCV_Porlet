@@ -1,0 +1,1 @@
+$(document).on("ready", inicioCrearProceso); /*Se cargar desde Crear Proceso*/
